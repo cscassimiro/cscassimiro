@@ -29,8 +29,6 @@ Estou em fase de estudos para transição de carreira na área de Teste e Qualid
 
 ![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=cscassimiro&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cscassimiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
 ### LinkedIn
