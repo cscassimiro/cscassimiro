@@ -1,13 +1,13 @@
 ## Hello World! 💥 
-### Eu sou a Camila Cassimiro
+### Sou a Camila S. Cassimiro
 
 <br>
 
 - 🔭 Formada em Tecnólogo em Análise e Desenvolvimento de Sistema, 
-- ⚡5 anos de experiência na área de TI com Suporte Técnico em Sistema ERP, 
+- ⚡8 anos de experiência na área de TI com Suporte Técnico em Sistema ERP, 
 - ⚡1 ano de experiência com Suporte Técnico em Plataforma Anti-Fraude.
 - 🌱 Em transição de carreira na área de Teste e Qualidade de Software.  
-- 🤔 Atualmente estou estudando através do Curso Metodo PDA e do Projeto Qa.Coders.
+- 🤔 Atualmente estou estudando através do Projeto Fenix e do Projeto Qa.Coders.
 
 <br>
 
