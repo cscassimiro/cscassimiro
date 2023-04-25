@@ -12,6 +12,8 @@
 
 <br>
 
+![Profile views](https://gpvc.arturio.dev/cscassimiro)
+
 ### LinkedIn
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cscassimiro/) 
@@ -30,7 +32,7 @@
 
 [![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]()  [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
 
-<br>
+
 
 ### IDE
 ---
