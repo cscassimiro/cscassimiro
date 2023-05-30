@@ -9,7 +9,7 @@
 - ⚡8 anos de experiência na área de TI com Suporte Técnico em Sistema ERP, 
 - ⚡1 ano de experiência com Suporte Técnico em Plataforma Anti-Fraude.
 - 🌱 Em transição de carreira na área de Teste e Qualidade de Software.  
-- 🤔 Atualmente estou estudando através do Projeto Fenix e do Projeto Qa.Coders.
+- 🤔 Atualmente estou estudando através do [Projeto Fenix](https://app.qualitersclub.com/) e do [Projeto Qa.Coders](https://qacoders.com.br/).
 
 <br>
 
